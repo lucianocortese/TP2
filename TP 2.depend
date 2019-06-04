@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1559599887 source:/home/lucho/Escritorio/UTN/programacion/Tps/TP 2/TP 2/input.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"input.h"
+
+1559599887 /home/lucho/Escritorio/UTN/programacion/Tps/TP 2/TP 2/input.h
+
+1559612512 source:/home/lucho/Escritorio/UTN/programacion/Tps/TP 2/TP 2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<unistd.h>
+	"input.h"
+	"arregloEmpleados.h"
+
+1559599887 source:/home/lucho/Escritorio/UTN/programacion/Tps/TP 2/TP 2/sistem.c
+	<stdio.h>
+	<stdlib.h>
+
+1559607986 /home/lucho/Escritorio/UTN/programacion/Tps/TP 2/TP 2/arregloEmpleados.h
+
+1559612512 source:/home/lucho/Escritorio/UTN/programacion/Tps/TP 2/TP 2/arregloEmpleados.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"input.h"
+	"sistem.h"
+	"arregloEmpleados.h"
+
+1559599887 /home/lucho/Escritorio/UTN/programacion/Tps/TP 2/TP 2/sistem.h
+
